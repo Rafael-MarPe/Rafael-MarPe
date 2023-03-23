@@ -11,12 +11,14 @@
 <img align="right" alt="Coding" width="450" height="300" src="https://thumbs.gfycat.com/AppropriateFatKagu-max-1mb.gif">
 
    - 🌱 I’m currently working on **myself to achieve a job**
+   
+   - 🌱 Check out my most recent project **https://rafael-marpe.github.io/website-barberia/index.html**
 
    - 👨‍💻 I’m currently learning **Java, JavaScript, MongoDB, NodeJS**
 
    - 👀 I’m looking to collaborate on **amazing project with a possitive impact**
 
-   - 📓 I studied at **Alura LATAM**
+   - 📓 I studied at **Alura LATAM and Don Bosco University**
 
    - 📫 How to reach me **rafaelmarpe99@gmail.com**
 
