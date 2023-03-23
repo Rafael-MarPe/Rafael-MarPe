@@ -10,8 +10,6 @@
 <p>_________________________________________________</p>
 <img align="right" alt="Coding" width="450" height="300" src="https://thumbs.gfycat.com/AppropriateFatKagu-max-1mb.gif">
 
-   - 👻 Check out my most recent project **https://rafael-marpe.github.io/website-barberia/index.html**
-
    - 🌱 I’m currently working on **myself to achieve a job**
 
    - 👨‍💻 I’m currently learning **Java, JavaScript, MongoDB, NodeJS**
