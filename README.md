@@ -2,7 +2,8 @@
 <h2 align="center">I'm a BackEnd Developer trainee who loves to listen to music and create efficient solutions🎧📎</h2>
 
 <br></br>
-<h2 align="left"> 👻 Check out my most recent project **https://rafael-marpe.github.io/website-barberia/index.html**</h2>
+<h2 align="left"> 👻 Check out my most recent project:</h2>
+<h2 align="left"> ttps://rafael-marpe.github.io/website-barberia/index.html</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafael-marpe&label=Profile%20views&color=0e75b6&style=flat" alt="rafael-marpe" /> </p>
 
